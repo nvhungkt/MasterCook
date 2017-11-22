@@ -1,0 +1,27 @@
+
+                        
+                        
+                    
+                    <img src="Pictures/09_1509431334123.jpg"><div><h2 class="responsive-tabs__pane-title" style="margin: 0px 0px 15px; font-family: SerifaBT-Light, Georgia, "Times New Roman", Times, serif; color: rgb(51, 51, 51); text-rendering: optimizeLegibility; font-size: 25px; padding-top: 20px; padding-bottom: 10px; background-image: url("/sites/all/themes/bbcw_goodfood/images/ui/border-dash.3.gif?vcea4046353d3aff5c44a4d7f021d9f80") !important; background-position: left bottom !important; background-size: initial !important; background-repeat: repeat-x !important; background-attachment: initial !important; background-origin: initial !important; background-clip: initial !important;">Ingredients</h2></div><div><p class="MsoNormal">1 small chicken breast<o:p></o:p></p>
+
+<p class="MsoNormal">1 tsp olive oil<o:p></o:p></p>
+
+<p class="MsoNormal">1 tsp rice vinegar<o:p></o:p></p>
+
+<p class="MsoNormal">½ tsp golden caster sugar<o:p></o:p></p>
+
+<p class="MsoNormal">juice ½ lime<o:p></o:p></p>
+
+<p class="MsoNormal">½ small carrot, peeled and grated<o:p></o:p></p>
+
+<p class="MsoNormal">2 spring onions, thinly sliced<o:p></o:p></p>
+
+<p class="MsoNormal">2½cm/1in piece cucumber, deseeded and sliced<o:p></o:p></p>
+
+<p class="MsoNormal">½ red chilli, thinly sliced into rounds<o:p></o:p></p>
+
+<p class="MsoNormal">1 sandwich baguette<o:p></o:p></p>
+
+<p class="MsoNormal">3-4 Little Gem lettuce leaves, washed<o:p></o:p></p>
+
+<p class="MsoNormal">1-2 tbsp sweet chilli sauce<o:p></o:p></p><h2 class="responsive-tabs__pane-title" style="margin: 0px 0px 15px; font-family: SerifaBT-Light, Georgia, "Times New Roman", Times, serif; color: rgb(51, 51, 51); text-rendering: optimizeLegibility; font-size: 25px; padding-top: 20px; padding-bottom: 10px; background-image: url("/sites/all/themes/bbcw_goodfood/images/ui/border-dash.3.gif?vcea4046353d3aff5c44a4d7f021d9f80") !important; background-position: left bottom !important; background-size: initial !important; background-repeat: repeat-x !important; background-attachment: initial !important; background-origin: initial !important; background-clip: initial !important;">Method</h2></div><div><ol class="method__list" style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; list-style: none; font-family: "Helvetica Neue", Helvetica, Arial; font-size: 15px;"><li class="method__item" itemprop="recipeInstructions" style="line-height: 1.6; font-size: 16px; border-bottom: 1px solid rgb(240, 242, 235); counter-increment: method 1; margin-bottom: 20px; padding-bottom: 20px;"><p style="line-height: 1.5; margin-bottom: 0px; padding-bottom: 0px; padding-top: 2px;">1. Put the chicken breast between 2 pieces of cling film and bash with a rolling pin to about 1cm thick. Heat a griddle pan until hot. Rub the chicken with the oil, cook for 2-3 mins per side, or until cooked through. Set aside to cool.</p></li><li class="method__item" itemprop="recipeInstructions" style="line-height: 1.6; font-size: 16px; border-bottom: 1px solid rgb(240, 242, 235); counter-increment: method 1; margin-bottom: 20px; padding-bottom: 20px;"><p style="line-height: 1.5; margin-bottom: 0px; padding-bottom: 0px; padding-top: 2px;">2. Mix together the rice vinegar, sugar and lime juice, stirring until the sugar is dissolved. Add the carrot, spring onions, cucumber and chilli.</p></li><li class="method__item" itemprop="recipeInstructions" style="line-height: 1.6; font-size: 16px; border-bottom: 1px solid rgb(240, 242, 235); counter-increment: method 1; padding-bottom: 20px; margin-bottom: 0px !important;"><p style="line-height: 1.5; margin-bottom: 0px; padding-bottom: 0px; padding-top: 2px;">3. Split a sandwich baguette along the top. Stuff with the Little Gem leaves and shred the chicken on top. Pile on the carrot mixture and wrap or place in a plastic box. Put the sweet chilli sauce in a small portable pot and when it’s time for lunch, pour over the sauce just before tucking in.</p></li></ol></div>

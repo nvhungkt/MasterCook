@@ -1,0 +1,17 @@
+<img src="Pictures/04_1508941310659.jpg"><div><h2 class="responsive-tabs__pane-title" style="margin: 0px 0px 15px; font-family: SerifaBT-Light, Georgia, "Times New Roman", Times, serif; color: rgb(51, 51, 51); text-rendering: optimizeLegibility; font-size: 25px; padding-top: 20px; padding-bottom: 10px; background-image: url("/sites/all/themes/bbcw_goodfood/images/ui/border-dash.3.gif?vcea4046353d3aff5c44a4d7f021d9f80") !important; background-position: left bottom !important; background-size: initial !important; background-repeat: repeat-x !important; background-attachment: initial !important; background-origin: initial !important; background-clip: initial !important;">Ingredients</h2></div><div><p class="MsoNormal">1 tbsp olive oil<o:p></o:p></p>
+
+<p class="MsoNormal">1 onion, finely chopped<o:p></o:p></p>
+
+<p class="MsoNormal">500g diced boneless lean lamb, preferably from the leg<o:p></o:p></p>
+
+<p class="MsoNormal">300g sweet potatoes, cut into small chunks<o:p></o:p></p>
+
+<p class="MsoNormal">2 tsp ground coriander<o:p></o:p></p>
+
+<p class="MsoNormal">2 tsp ground cinnamon<o:p></o:p></p>
+
+<p class="MsoNormal">1 tbsp tomato purée<o:p></o:p></p>
+
+<p class="MsoNormal">50g pitted dates<o:p></o:p></p>
+
+<p class="MsoNormal">2 tbsp coriander, roughly chopped<o:p></o:p></p><h2 class="responsive-tabs__pane-title" style="margin: 0px 0px 15px; font-family: SerifaBT-Light, Georgia, "Times New Roman", Times, serif; color: rgb(51, 51, 51); text-rendering: optimizeLegibility; font-size: 25px; padding-top: 20px; padding-bottom: 10px; background-image: url("/sites/all/themes/bbcw_goodfood/images/ui/border-dash.3.gif?vcea4046353d3aff5c44a4d7f021d9f80") !important; background-position: left bottom !important; background-size: initial !important; background-repeat: repeat-x !important; background-attachment: initial !important; background-origin: initial !important; background-clip: initial !important;">Method</h2></div><div><ol class="method__list" style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; list-style: none; font-family: "Helvetica Neue", Helvetica, Arial; font-size: 15px;"><li class="method__item" itemprop="recipeInstructions" style="line-height: 1.6; font-size: 16px; border-bottom: 1px solid rgb(240, 242, 235); counter-increment: method 1; margin-bottom: 20px; padding-bottom: 20px;"><p style="line-height: 1.5; margin-bottom: 0px; padding-bottom: 0px; padding-top: 2px;">1. Heat the oil in a large pan, add the onion and lamb, then quickly fry until the lamb is lightly browned.</p></li><li class="method__item" itemprop="recipeInstructions" style="line-height: 1.6; font-size: 16px; border-bottom: 1px solid rgb(240, 242, 235); counter-increment: method 1; margin-bottom: 20px; padding-bottom: 20px;"><p style="line-height: 1.5; margin-bottom: 0px; padding-bottom: 0px; padding-top: 2px;">2. Add the sweet potatoes and spices, then mix well. Pour in 425ml boiling water and the tomato purée, then bring to the boil.</p></li><li class="method__item" itemprop="recipeInstructions" style="line-height: 1.6; font-size: 16px; border-bottom: 1px solid rgb(240, 242, 235); counter-increment: method 1; padding-bottom: 20px; margin-bottom: 0px !important;"><p style="line-height: 1.5; margin-bottom: 0px; padding-bottom: 0px; padding-top: 2px;">3. Cover and simmer for 15 mins until sweet potatoes and lamb are tender, adding the dates for the final 10 mins. Sprinkle with coriander and serve with couscous.</p></li></ol></div>

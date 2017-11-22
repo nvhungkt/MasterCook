@@ -1,0 +1,22 @@
+
+                        
+                        
+                    
+                    <img src="Pictures/09_1509433778020.jpg"><div><h2 class="responsive-tabs__pane-title" style="margin: 0px 0px 15px; font-family: SerifaBT-Light, Georgia, "Times New Roman", Times, serif; color: rgb(51, 51, 51); text-rendering: optimizeLegibility; font-size: 25px; padding-top: 20px; padding-bottom: 10px; background-image: url("/sites/all/themes/bbcw_goodfood/images/ui/border-dash.3.gif?vcea4046353d3aff5c44a4d7f021d9f80") !important; background-position: left bottom !important; background-size: initial !important; background-repeat: repeat-x !important; background-attachment: initial !important; background-origin: initial !important; background-clip: initial !important;">Ingredients</h2></div><div><p class="MsoNormal">20 raw king prawns<o:p></o:p></p>
+
+<p class="MsoNormal">1 small shallot, finely chopped<o:p></o:p></p>
+
+<p class="MsoNormal">4 garlic cloves, finely chopped<o:p></o:p></p>
+
+<p class="MsoNormal">1 fresh red chilli, halved, seeded and finely chopped<o:p></o:p></p>
+
+<p class="MsoNormal">2½ cm piece of fresh root ginger, peeled and finely chopped<o:p></o:p></p>
+
+<p class="MsoNormal">1 stem of lemongrass, tough outer leaves removed, finely
+chopped<o:p></o:p></p>
+
+<p class="MsoNormal">a good handful of fresh mint leaves, finely chopped<o:p></o:p></p>
+
+<p class="MsoNormal">a good handful of fresh coriander leaves, finely chopped<o:p></o:p></p>
+
+<p class="MsoNormal">100ml/3½ fl oz olive oilgrated zest and juice of 1 lime<o:p></o:p></p><h2 class="responsive-tabs__pane-title" style="margin: 0px 0px 15px; font-family: SerifaBT-Light, Georgia, "Times New Roman", Times, serif; color: rgb(51, 51, 51); text-rendering: optimizeLegibility; font-size: 25px; padding-top: 20px; padding-bottom: 10px; background-image: url("/sites/all/themes/bbcw_goodfood/images/ui/border-dash.3.gif?vcea4046353d3aff5c44a4d7f021d9f80") !important; background-position: left bottom !important; background-size: initial !important; background-repeat: repeat-x !important; background-attachment: initial !important; background-origin: initial !important; background-clip: initial !important;">Method</h2></div><div><ol class="method__list" style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; list-style: none; font-family: "Helvetica Neue", Helvetica, Arial; font-size: 15px;"><li class="method__item" itemprop="recipeInstructions" style="line-height: 1.6; font-size: 16px; border-bottom: 1px solid rgb(240, 242, 235); counter-increment: method 1; margin-bottom: 20px; padding-bottom: 20px;"><p style="line-height: 1.5; margin-bottom: 0px; padding-bottom: 0px; padding-top: 2px;">1. Tip all the chopped ingredients into a bowl, add the olive oil along with the lime zest and juice and mix well. Set aside for 30 minutes to allow the flavours to mingle.</p></li><li class="method__item" itemprop="recipeInstructions" style="line-height: 1.6; font-size: 16px; border-bottom: 1px solid rgb(240, 242, 235); counter-increment: method 1; padding-bottom: 20px; margin-bottom: 0px !important;"><p style="line-height: 1.5; margin-bottom: 0px; padding-bottom: 0px; padding-top: 2px;">2. To make fragrant Thai prawns, remove heads and peel shells from 20 raw king prawns but leave tail sections on. Toss in the marinade and cook on a really hot barbecue for 45 seconds on each side until they turn from grey-blue to pink</p></li></ol></div>

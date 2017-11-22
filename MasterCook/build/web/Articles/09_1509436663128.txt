@@ -1,0 +1,28 @@
+
+                        
+                        
+                    
+                    <img src="Pictures/09_1509436534161.jpg"><div><h2 class="responsive-tabs__pane-title" style="margin: 0px 0px 15px; font-family: SerifaBT-Light, Georgia, "Times New Roman", Times, serif; color: rgb(51, 51, 51); text-rendering: optimizeLegibility; font-size: 25px; padding-top: 20px; padding-bottom: 10px; background-image: url("/sites/all/themes/bbcw_goodfood/images/ui/border-dash.3.gif?vcea4046353d3aff5c44a4d7f021d9f80") !important; background-position: left bottom !important; background-size: initial !important; background-repeat: repeat-x !important; background-attachment: initial !important; background-origin: initial !important; background-clip: initial !important;">Ingredients</h2></div><div><p class="MsoNormal">100g fresh edamame in the pods (or frozen soya beans)<o:p></o:p></p>
+
+<p class="MsoNormal">handful of a favourite fruit, such as fresh pineapple,
+blueberries or strawberries<o:p></o:p></p>
+
+<p class="MsoNormal"><b>For the sushi</b><o:p></o:p></p>
+
+<p class="MsoNormal">100g sushi rice<o:p></o:p></p>
+
+<p class="MsoNormal">1 tbsp rice vinegar<o:p></o:p></p>
+
+<p class="MsoNormal">½ tsp golden caster sugar<o:p></o:p></p>
+
+<p class="MsoNormal">1 sheet nori<o:p></o:p></p>
+
+<p class="MsoNormal">1 smoked mackerel fillet, about 75g, flaked<o:p></o:p></p>
+
+<p class="MsoNormal">1 tbsp light mayonnaise<o:p></o:p></p>
+
+<p class="MsoNormal">2 spring onions, chopped<o:p></o:p></p>
+
+<p class="MsoNormal">pea-sized blob wasabi (optional)<o:p></o:p></p>
+
+<p class="MsoNormal">¼ red pepper, thinly sliced lengthways, about 6 slices<o:p></o:p></p><h2 class="responsive-tabs__pane-title" style="margin: 0px 0px 15px; font-family: SerifaBT-Light, Georgia, "Times New Roman", Times, serif; color: rgb(51, 51, 51); text-rendering: optimizeLegibility; font-size: 25px; padding-top: 20px; padding-bottom: 10px; background-image: url("/sites/all/themes/bbcw_goodfood/images/ui/border-dash.3.gif?vcea4046353d3aff5c44a4d7f021d9f80") !important; background-position: left bottom !important; background-size: initial !important; background-repeat: repeat-x !important; background-attachment: initial !important; background-origin: initial !important; background-clip: initial !important;">Method</h2></div><div><ol class="method__list" style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; list-style: none; font-family: "Helvetica Neue", Helvetica, Arial; font-size: 15px;"><li class="method__item" itemprop="recipeInstructions" style="line-height: 1.6; font-size: 16px; border-bottom: 1px solid rgb(240, 242, 235); counter-increment: method 1; margin-bottom: 20px; padding-bottom: 20px;"><p style="line-height: 1.5; margin-bottom: 0px; padding-bottom: 0px; padding-top: 2px;">1. Bring a pan of water to the boil and cook the edamame for 3-4 mins (or 1-2 mins if using frozen soya beans) until tender. Drain, sprinkle with salt and set aside.</p></li><li class="method__item" itemprop="recipeInstructions" style="line-height: 1.6; font-size: 16px; border-bottom: 1px solid rgb(240, 242, 235); counter-increment: method 1; margin-bottom: 20px; padding-bottom: 20px;"><p style="line-height: 1.5; margin-bottom: 0px; padding-bottom: 0px; padding-top: 2px;">2. Rinse the rice well in cold water until the water runs clear. Put the rice in a heavy-based pan with a tight-fitting lid and cover with 200ml water. Bring just to the boil, then put on the lid, turn the heat to its lowest point and cook for 15-20 mins, until the liquid is absorbed. Remove from the heat and leave with the lid on for another 10 mins.</p></li><li class="method__item" itemprop="recipeInstructions" style="line-height: 1.6; font-size: 16px; border-bottom: 1px solid rgb(240, 242, 235); counter-increment: method 1; margin-bottom: 20px; padding-bottom: 20px;"><p style="line-height: 1.5; margin-bottom: 0px; padding-bottom: 0px; padding-top: 2px;">3. Spoon the cooked rice into a wide bowl and leave to cool a little. Stir together the rice vinegar, sugar and a small pinch of salt, until the sugar and salt dissolve. Mix this into the cooled rice. Lay the nori sheet on a sushi rolling mat or sheet of cling film. With damp hands, spread the rice over two-thirds of the nori sheet.</p></li><li class="method__item" itemprop="recipeInstructions" style="line-height: 1.6; font-size: 16px; border-bottom: 1px solid rgb(240, 242, 235); counter-increment: method 1; margin-bottom: 20px; padding-bottom: 20px;"><p style="line-height: 1.5; margin-bottom: 0px; padding-bottom: 0px; padding-top: 2px;">4. Mix the smoked mackerel, mayonnaise and spring onions, season well with black pepper. Spread a line of wasabi down the middle of the rice, if using, and layer on the red pepper pieces, then the fish mixture. Roll the sushi up, starting from the end covered with rice. Dampen the uncovered end to help it stick. Slice into about 6 x 3cm thick pieces.</p></li><li class="method__item" itemprop="recipeInstructions" style="line-height: 1.6; font-size: 16px; border-bottom: 1px solid rgb(240, 242, 235); counter-increment: method 1; padding-bottom: 20px; margin-bottom: 0px !important;"><p style="line-height: 1.5; margin-bottom: 0px; padding-bottom: 0px; padding-top: 2px;">5. Pop the sushi rolls into a bento box or lunchbox, adding the edamame and fruit to the other compartments.</p></li></ol></div>

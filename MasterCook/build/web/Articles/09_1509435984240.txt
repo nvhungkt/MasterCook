@@ -1,0 +1,25 @@
+
+                        
+                        
+                    
+                    <img src="Pictures/09_1509435891226.jpg"><div><h2 class="responsive-tabs__pane-title" style="margin: 0px 0px 15px; font-family: SerifaBT-Light, Georgia, "Times New Roman", Times, serif; color: rgb(51, 51, 51); text-rendering: optimizeLegibility; font-size: 25px; padding-top: 20px; padding-bottom: 10px; background-image: url("/sites/all/themes/bbcw_goodfood/images/ui/border-dash.3.gif?vcea4046353d3aff5c44a4d7f021d9f80") !important; background-position: left bottom !important; background-size: initial !important; background-repeat: repeat-x !important; background-attachment: initial !important; background-origin: initial !important; background-clip: initial !important;">Ingredients</h2></div><div><p class="MsoNormal">2 tbsp sunflower oil<o:p></o:p></p>
+
+<p class="MsoNormal">225g pack paneer, cut into cubes<o:p></o:p></p>
+
+<p class="MsoNormal">1 head of cauliflower, broken into small florets<o:p></o:p></p>
+
+<p class="MsoNormal">2 onions, thickly sliced<o:p></o:p></p>
+
+<p class="MsoNormal">2 garlic cloves, crushed<o:p></o:p></p>
+
+<p class="MsoNormal">2 heaped tbsp tikka masala paste<o:p></o:p></p>
+
+<p class="MsoNormal">500g carton passata<o:p></o:p></p>
+
+<p class="MsoNormal">200g frozen peas<o:p></o:p></p>
+
+<p class="MsoNormal">small pack coriander, roughly chopped<o:p></o:p></p>
+
+<p class="MsoNormal">basmati rice or naan breads, to serve<o:p></o:p></p>
+
+<p class="MsoNormal">raita or your favourite chutney, to serve<o:p></o:p></p><h2 class="responsive-tabs__pane-title" style="margin: 0px 0px 15px; font-family: SerifaBT-Light, Georgia, "Times New Roman", Times, serif; color: rgb(51, 51, 51); text-rendering: optimizeLegibility; font-size: 25px; padding-top: 20px; padding-bottom: 10px; background-image: url("/sites/all/themes/bbcw_goodfood/images/ui/border-dash.3.gif?vcea4046353d3aff5c44a4d7f021d9f80") !important; background-position: left bottom !important; background-size: initial !important; background-repeat: repeat-x !important; background-attachment: initial !important; background-origin: initial !important; background-clip: initial !important;">Method</h2></div><div><ol class="method__list" style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; list-style: none; font-family: "Helvetica Neue", Helvetica, Arial; font-size: 15px;"><li class="method__item" itemprop="recipeInstructions" style="line-height: 1.6; font-size: 16px; border-bottom: 1px solid rgb(240, 242, 235); counter-increment: method 1; margin-bottom: 20px; padding-bottom: 20px;"><p style="line-height: 1.5; margin-bottom: 0px; padding-bottom: 0px; padding-top: 2px;">1. Heat 1 tbsp of oil in a large non-stick frying pan, add the paneer and fry gently until crisp. Remove with a slotted spoon and set aside. Add the remaining oil and the cauliflower to the pan, and cook for 10 mins until browned. Add the onions, and a little more oil if needed, and cook for a further 5 mins until softened. Stir in the garlic and curry paste, then pour in the passata and 250ml water, and season. Bring to a simmer, then cover and cook for 18-20 mins or until the cauliflower is just tender.</p></li><li class="method__item" itemprop="recipeInstructions" style="line-height: 1.6; font-size: 16px; border-bottom: 1px solid rgb(240, 242, 235); counter-increment: method 1; padding-bottom: 20px; margin-bottom: 0px !important;"><p style="line-height: 1.5; margin-bottom: 0px; padding-bottom: 0px; padding-top: 2px;">2. Add the frozen peas and crispy paneer to the pan and cook for a further 5 mins. Stir through most of the coriander and garnish with the rest. Serve with basmati rice or naan bread, raita or your favourite chutney.</p></li></ol></div>

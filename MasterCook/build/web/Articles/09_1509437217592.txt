@@ -1,0 +1,23 @@
+
+                        
+                        
+                    
+                    <img src="Pictures/09_1509437120154.jpg"><div><h2 class="responsive-tabs__pane-title" style="margin: 0px 0px 15px; font-family: SerifaBT-Light, Georgia, "Times New Roman", Times, serif; color: rgb(51, 51, 51); text-rendering: optimizeLegibility; font-size: 25px; padding-top: 20px; padding-bottom: 10px; background-image: url("/sites/all/themes/bbcw_goodfood/images/ui/border-dash.3.gif?vcea4046353d3aff5c44a4d7f021d9f80") !important; background-position: left bottom !important; background-size: initial !important; background-repeat: repeat-x !important; background-attachment: initial !important; background-origin: initial !important; background-clip: initial !important;">Ingredients</h2></div><div><p class="MsoNormal">2 large sweet potatoes, cut into wedges<o:p></o:p></p>
+
+<p class="MsoNormal">1 tbsp vegetable oil, plus a little extra<o:p></o:p></p>
+
+<p class="MsoNormal">1 tbsp sesame seed<o:p></o:p></p>
+
+<p class="MsoNormal">1 tbsp miso paste<o:p></o:p></p>
+
+<p class="MsoNormal">juice 1 lemon<o:p></o:p></p>
+
+<p class="MsoNormal">1 tbsp hot chilli sauce (sriracha is nice)<o:p></o:p></p>
+
+<p class="MsoNormal">1 tbsp mirin<o:p></o:p></p>
+
+<p class="MsoNormal">2 bavette or other lean steaks<o:p></o:p></p>
+
+<p class="MsoNormal"> (about 200g each)<o:p></o:p></p>
+
+<p class="MsoNormal">large handful watercress leaves, to serve<o:p></o:p></p><h2 class="responsive-tabs__pane-title" style="margin: 0px 0px 15px; font-family: SerifaBT-Light, Georgia, "Times New Roman", Times, serif; color: rgb(51, 51, 51); text-rendering: optimizeLegibility; font-size: 25px; padding-top: 20px; padding-bottom: 10px; background-image: url("/sites/all/themes/bbcw_goodfood/images/ui/border-dash.3.gif?vcea4046353d3aff5c44a4d7f021d9f80") !important; background-position: left bottom !important; background-size: initial !important; background-repeat: repeat-x !important; background-attachment: initial !important; background-origin: initial !important; background-clip: initial !important;">Method</h2></div><div><ol class="method__list" style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; list-style: none; font-family: "Helvetica Neue", Helvetica, Arial; font-size: 15px;"><li class="method__item" itemprop="recipeInstructions" style="line-height: 1.6; font-size: 16px; border-bottom: 1px solid rgb(240, 242, 235); counter-increment: method 1; margin-bottom: 20px; padding-bottom: 20px;"><p style="line-height: 1.5; margin-bottom: 0px; padding-bottom: 0px; padding-top: 2px;">1. Heat oven to 200C/180C fan/gas 6. Put the potato wedges on a baking tray and rub with the oil. Sprinkle the sesame seeds and some seasoning over. Bake for 25 mins or until crisp at the edges.</p></li><li class="method__item" itemprop="recipeInstructions" style="line-height: 1.6; font-size: 16px; border-bottom: 1px solid rgb(240, 242, 235); counter-increment: method 1; margin-bottom: 20px; padding-bottom: 20px;"><p style="line-height: 1.5; margin-bottom: 0px; padding-bottom: 0px; padding-top: 2px;">2. In a small bowl, mix together the miso, lemon juice, chilli sauce and mirin. Rub the steaks with a tiny bit of oil and some seasoning. Spoon 1 tbsp of the sauce over each steak and rub into both sides.</p></li><li class="method__item" itemprop="recipeInstructions" style="line-height: 1.6; font-size: 16px; border-bottom: 1px solid rgb(240, 242, 235); counter-increment: method 1; padding-bottom: 20px; margin-bottom: 0px !important;"><p style="line-height: 1.5; margin-bottom: 0px; padding-bottom: 0px; padding-top: 2px;">3. Heat a griddle pan until really hot, cook the steaks for 2 mins each side, or longer if you prefer it well done. Brush more of the sauce over after you turn them. Transfer to a plate, cover loosely with foil, and leave to rest for 5 mins. Serve the steaks sliced, with extra sauce, the potatoes and watercress.</p></li></ol></div>

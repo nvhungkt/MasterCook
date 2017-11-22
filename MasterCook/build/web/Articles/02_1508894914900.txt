@@ -1,0 +1,29 @@
+<img src="Pictures/02_1508894831660.jpg"><div><br></div><div><h2 class="responsive-tabs__pane-title" style="margin: 0px 0px 15px; font-family: SerifaBT-Light, Georgia, "Times New Roman", Times, serif; color: rgb(51, 51, 51); text-rendering: optimizeLegibility; font-size: 25px; padding-top: 20px; padding-bottom: 10px; background-image: url("/sites/all/themes/bbcw_goodfood/images/ui/border-dash.3.gif?vcea4046353d3aff5c44a4d7f021d9f80") !important; background-position: left bottom !important; background-size: initial !important; background-repeat: repeat-x !important; background-attachment: initial !important; background-origin: initial !important; background-clip: initial !important;">Ingredients</h2></div><div><p class="MsoNormal">drizzle of oil<o:p></o:p></p>
+
+<p class="MsoNormal">1 small onion<o:p></o:p></p>
+
+<p class="MsoNormal">, finely chopped<o:p></o:p></p>
+
+<p class="MsoNormal">2 garlic cloves, crushed<o:p></o:p></p>
+
+<p class="MsoNormal">250g beef mince<o:p></o:p></p>
+
+<p class="MsoNormal">1 potato<o:p></o:p></p>
+
+<p class="MsoNormal">, cut into 1cm/½ in cubes<o:p></o:p></p>
+
+<p class="MsoNormal">2 tsp turmeric<o:p></o:p></p>
+
+<p class="MsoNormal">2 tbsp tomato purée<o:p></o:p></p>
+
+<p class="MsoNormal">few thyme sprigs<o:p></o:p></p>
+
+<p class="MsoNormal">2 tbsp hot pepper sauce<o:p></o:p></p>
+
+<p class="MsoNormal">500g block shortcrust pastry<o:p></o:p></p>
+
+<p class="MsoNormal">1 egg<o:p></o:p></p>
+
+<p class="MsoNormal">, beaten<o:p></o:p></p>
+
+<p class="MsoNormal">green salad, to serve<o:p></o:p></p><h2 class="responsive-tabs__pane-title" style="margin: 0px 0px 15px; font-family: SerifaBT-Light, Georgia, "Times New Roman", Times, serif; color: rgb(51, 51, 51); text-rendering: optimizeLegibility; font-size: 25px; padding-top: 20px; padding-bottom: 10px; background-image: url("/sites/all/themes/bbcw_goodfood/images/ui/border-dash.3.gif?vcea4046353d3aff5c44a4d7f021d9f80") !important; background-position: left bottom !important; background-size: initial !important; background-repeat: repeat-x !important; background-attachment: initial !important; background-origin: initial !important; background-clip: initial !important;">Method</h2></div><div><ol class="method__list" style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; list-style: none; font-family: "Helvetica Neue", Helvetica, Arial; font-size: 15px;"><li class="method__item" itemprop="recipeInstructions" style="line-height: 1.6; font-size: 16px; border-bottom: 1px solid rgb(240, 242, 235); counter-increment: method 1; margin-bottom: 20px; padding-bottom: 20px;"><p style="line-height: 1.5; margin-bottom: 0px; padding-bottom: 0px; padding-top: 2px;">1. Heat the oil in a pan, add the onion and cook for 5 mins. Add the garlic and beef, turn up the heat and cook until the meat is browned. Add the potato, half the turmeric, the purée and thyme, plus 200ml water. Cover and simmer for 15 mins, then remove the lid and cook for 5 mins more. Add the hot pepper sauce and leave to cool.</p></li><li class="method__item" itemprop="recipeInstructions" style="line-height: 1.6; font-size: 16px; border-bottom: 1px solid rgb(240, 242, 235); counter-increment: method 1; padding-bottom: 20px; margin-bottom: 0px !important;"><p style="line-height: 1.5; margin-bottom: 0px; padding-bottom: 0px; padding-top: 2px;">2. Heat oven to 220C/200C fan/gas 7. Roll out the pastry to the thickness of a £1 coin. Cut out 6 x 15cm circles, using a small plate as a guide. Divide the mince between the circles, piling it up on one side. Mix the egg with the remaining turmeric, brush around the edge of each circle, then fold over and use a fork to seal the edges. Arrange on a baking tray lined with baking parchment, brush with a little more egg and bake for 20-25 mins. Serve with a green salad.</p></li></ol></div>

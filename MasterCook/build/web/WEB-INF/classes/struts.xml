@@ -1,0 +1,186 @@
+<!DOCTYPE struts PUBLIC
+"-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+"http://struts.apache.org/dtds/struts-2.0.dtd">
+
+<struts>
+    <!-- Configuration for the default package. -->
+    <constant name="struts.mapper.action.prefix.enabled" value="true" />    
+    <package name="default" extends="struts-default" namespace="/">        
+        <action name="" class="sample.action.LoadArticlePresentsAction">
+            <result name="success">home.jsp</result>
+        </action>
+        <action name="login" class="sample.action.LoginAction">
+            <result name="success" type="redirectAction">
+                <param name="actionName">${}</param>
+            </result>
+            <result name="fail">login.jsp</result>
+        </action>
+        <action name="viewStaffInfo" class="sample.action.ViewStaffInfoAction">
+            <result name="success">staffInfo.jsp</result>
+        </action>        
+        <action name="editStaff" class="sample.action.ViewStaffInfoAction">
+            <result name="success">editStaff.jsp</result>
+        </action>
+        <action name="changePass" class="sample.action.ChangePasswordAction">
+            <result name="success" type="redirectAction">
+                <param name="actionName">logout</param>
+            </result>            
+            <result name="fail">changePassword.jsp</result>
+        </action>
+        <action name="logout" class="sample.action.LogoutAction">
+            <result name="success" type="redirect">login.jsp</result>
+        </action>
+        
+        <action name="viewDetails" class="sample.action.ViewArticleDetailsAction">
+            <result name="success">articleDetail.jsp</result> 
+        </action>
+        
+        <action name="sendComment" class="sample.action.SendCommentAction">
+            <result name="success" type="redirectAction">
+                <param name="actionName">viewDetails</param>                
+                <param name="message">${message}</param>
+                <param name="articleID">${articleID}</param>
+            </result>
+        </action>
+        <action name="deleteComment" class="sample.action.DeleteCommentAction">
+            <result name="success" type="redirectAction">
+                <param name="actionName">viewDetails</param>
+                <param name="articleID">${articleID}</param>
+            </result>
+        </action>
+        <action name="approveArticle" class="sample.action.ApproveArticleAction">
+            <result name="success" type="redirectAction">
+                <param name="actionName">viewDetails</param>
+                <param name="articleID">${articleID}</param>
+            </result>
+        </action>
+        <action name="rejectArticle" class ="sample.action.RejectArticleAction">
+            <result name="success" type="redirectAction">
+                <param name="actionName">viewDetails</param>
+                <param name="articleID">${articleID}</param>
+            </result>
+        </action>        
+        <action name="uploadArticle" class="sample.action.ViewUploadArticlePageAction">
+            <result name="success">upload.jsp</result>
+        </action>
+        
+        <action name="uploadimg" class="sample.action.UploadImageAction">
+	    <interceptor-ref name="fileUpload">
+                    <param name="maximumSize">2097152</param>
+                    <param name="allowedTypes">
+                            image/png,image/gif,image/jpeg,image/pjpeg
+                    </param>
+            </interceptor-ref>
+            <interceptor-ref name="defaultStack"></interceptor-ref>
+	    <result name="success" type="chain">uploadArticle</result>
+	    <result name="input">upload.jsp</result>
+	</action>
+        
+        <action name="finishUploadArticle" class="sample.action.UploadArticleAction">
+            <result name="success" type="redirectAction">
+                <param name="actionName">viewDetails</param>
+                <param name="articleID">${articleID}</param>
+            </result>            
+            <result name="fail">upload.jsp</result>
+        </action>
+        
+        <action name="editArticle" class="sample.action.ViewEditArticlePageAction">
+            <result name="success" type="chain">uploadArticle</result>
+        </action>
+        
+        <action name="guestSearch" class="sample.action.GuestSearchAction">
+            <result name="success">guestSearchResult.jsp</result>
+        </action>
+        <action name="viewArticleBySubCat" class="sample.action.ViewArticleBySubCatAction">
+            <result name="success">sameSubCatArticle.jsp</result>
+        </action>
+               <action name="manageArticlesByState" class="sample.action.ManageArticlesByStateAction">
+            <result name="success">manageArticle.jsp</result>
+        </action>
+        <action name="viewMoreByState" class="sample.action.ViewMoreAction" method="viewByState">
+            <result name="success">manageArticleByState.jsp</result>
+        </action>
+        <action name="viewProductivityOfCollaborators" class="sample.action.ManageCollaboratorAction">
+            <result name="success">manageStaff.jsp</result>
+        </action>
+        <action name="viewProductivityOfEmployees" class="sample.action.ManageEmployeeAction">
+            <result name="success">manageStaff.jsp</result>
+        </action>
+        <action name="viewMoreAtHome" class="sample.action.ViewMoreAction" method="viewMoreAtHome">
+            <result name="success">viewMoreArticleInCat.jsp</result>
+        </action>
+        <action name="loadModifySubcatPage" class="sample.action.LoadModifySubcatPageAction">
+            <result name="success">modifySubCat.jsp</result>
+        </action>
+        <action name="loadAddSubcatPage" class="sample.action.LoadAddSubcatPageAction">
+            <result name="success">addSubCat.jsp</result>
+        </action>
+        <action name="addSubcat" class="sample.action.AddSubcatAction">
+            <result name="success" type="redirectAction">
+                <param name="actionName">loadAddSubcatPage</param>
+                <param name="error">${error}</param>
+            </result>
+            <result name="fail" type="redirectAction">
+                <param name="actionName">loadAddSubcatPage</param>
+                <param name="subcatName">${subcatName}</param>
+                <param name="description">${description}</param>
+                <param name="error">${error}</param>
+            </result>
+        </action>
+        <action name="modifySubcat" class="sample.action.ModifySubcatAction">
+            <result name="success" type="redirectAction">
+                <param name="actionName">loadModifySubcatPage</param>
+            </result>
+        </action>
+        
+        <action name="browseArticle" class="sample.action.ViewMoreAction" method="browseArticle">
+            <result name="success">manageArticleByState.jsp</result>
+        </action>
+        
+        <action name="editStaffConfirm" class="sample.action.EditStaffAction">
+            <result name="success" type="redirectAction">
+                <param name="actionName">viewStaffInfo</param>
+                <param name="staffID">${staffID}</param>
+            </result>
+            <result name="fail" type="redirectAction">
+                <param name="actionName">editStaff</param>
+                <param name="staffID">${staffID}</param>
+                <param name="error">${error}</param>
+            </result>
+        </action>
+        
+        <action name="createStaff" class="sample.action.GetAllSubcategoriesAction">
+            <result name="success">createStaff.jsp</result>
+        </action>
+        
+        <action name="createStaffConfirm" class="sample.action.CreateNewStaffAction">
+            <result name="success" type="redirectAction">
+                <param name="actionName">viewStaffInfo</param>
+                <param name="staffID">${staffID}</param>
+            </result>
+            <result name="fail" type="redirectAction">
+                <param name="actionName">createStaff</param>
+                <param name="username">${username}</param>
+                <param name="name">${name}</param>
+                <param name="phone">${phone}</param>
+                <param name="email">${email}</param>
+                <param name="birthday">${birthday}</param>
+                <param name="address">${address}</param>
+                <param name="gender">${gender}</param>
+                <param name="error">${error}</param>
+            </result>
+        </action>
+                 
+        <action name="makeTotalPostStatistic" class="sample.action.MakeStatisticAction" method="makeTotalPostStatistic">
+            <exception-mapping exception="java.lang.Exception" result="input"/>
+            <result name="input">makeStatistic.jsp</result>
+            <result name="success">makeStatistic.jsp</result>
+        </action>
+        
+        <action name="makeMostViewStatistic" class="sample.action.MakeStatisticAction" method="makeMostViewStatistic">
+            <exception-mapping exception="java.lang.Exception" result="input"/>            
+            <result name="input">makeStatistic.jsp</result>
+            <result name="success">makeStatistic.jsp</result>
+        </action>
+    </package>
+</struts>

@@ -1,0 +1,23 @@
+
+                        
+                        
+                    
+                    <img src="Pictures/09_1509437266196.jpg"><div><h2 class="responsive-tabs__pane-title" style="margin: 0px 0px 15px; font-family: SerifaBT-Light, Georgia, "Times New Roman", Times, serif; color: rgb(51, 51, 51); text-rendering: optimizeLegibility; font-size: 25px; padding-top: 20px; padding-bottom: 10px; background-image: url("/sites/all/themes/bbcw_goodfood/images/ui/border-dash.3.gif?vcea4046353d3aff5c44a4d7f021d9f80") !important; background-position: left bottom !important; background-size: initial !important; background-repeat: repeat-x !important; background-attachment: initial !important; background-origin: initial !important; background-clip: initial !important;">Ingredients</h2></div><div><p class="MsoNormal">3 tbsp soy sauce<o:p></o:p></p>
+
+<p class="MsoNormal">1 tbsp rice wine vinegar<o:p></o:p></p>
+
+<p class="MsoNormal">1 tbsp caster sugar<o:p></o:p></p>
+
+<p class="MsoNormal">2 tuna steaks, each about 140g/5oz<o:p></o:p></p>
+
+<p class="MsoNormal">500g potato<o:p></o:p></p>
+
+<p class="MsoNormal">100ml semi-skimmed milk<o:p></o:p></p>
+
+<p class="MsoNormal">2 tsp wasabi<o:p></o:p></p>
+
+<p class="MsoNormal"> paste (see Know-how)<o:p></o:p></p>
+
+<p class="MsoNormal">1 spring onion, finely sliced<o:p></o:p></p>
+
+<p class="MsoNormal">frozen broad bean or soya beans, to serve<o:p></o:p></p><h2 class="responsive-tabs__pane-title" style="margin: 0px 0px 15px; font-family: SerifaBT-Light, Georgia, "Times New Roman", Times, serif; color: rgb(51, 51, 51); text-rendering: optimizeLegibility; font-size: 25px; padding-top: 20px; padding-bottom: 10px; background-image: url("/sites/all/themes/bbcw_goodfood/images/ui/border-dash.3.gif?vcea4046353d3aff5c44a4d7f021d9f80") !important; background-position: left bottom !important; background-size: initial !important; background-repeat: repeat-x !important; background-attachment: initial !important; background-origin: initial !important; background-clip: initial !important;">Method</h2></div><div><ol class="method__list" style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; list-style: none; font-family: "Helvetica Neue", Helvetica, Arial; font-size: 15px;"><li class="method__item" itemprop="recipeInstructions" style="line-height: 1.6; font-size: 16px; border-bottom: 1px solid rgb(240, 242, 235); counter-increment: method 1; margin-bottom: 20px; padding-bottom: 20px;"><p style="line-height: 1.5; margin-bottom: 0px; padding-bottom: 0px; padding-top: 2px;">1. Mix together the soy sauce, vinegar and sugar. Pour over the tuna and marinate for at least 20 mins or up to 2 hrs in the fridge. Place the potatoes in a pan of lightly salted boiling water, then cook for 10-15 mins until soft. Drain well. Heat the milk in the pan and mix in the wasabi, return the potatoes to the pan, then mash until smooth. Stir through the spring onion and keep warm.</p></li><li class="method__item" itemprop="recipeInstructions" style="line-height: 1.6; font-size: 16px; border-bottom: 1px solid rgb(240, 242, 235); counter-increment: method 1; padding-bottom: 20px; margin-bottom: 0px !important;"><p style="line-height: 1.5; margin-bottom: 0px; padding-bottom: 0px; padding-top: 2px;">2. Heat a non-stick griddle pan until smoking hot. Remove the tuna from the marinade. Cook on the griddle for 2-3 mins on each side until seared on the outside, but still pink inside. Cook the broad or soy beans according to pack instructions, then serve alongside the tuna and mash.</p></li></ol></div>

@@ -1,0 +1,27 @@
+<img src="Pictures/05_1508945712766.jpg"><div><h2 class="responsive-tabs__pane-title" style="margin: 0px 0px 15px; font-family: SerifaBT-Light, Georgia, "Times New Roman", Times, serif; color: rgb(51, 51, 51); text-rendering: optimizeLegibility; font-size: 26px; padding-top: 20px; padding-bottom: 10px; background-image: url("/sites/all/themes/bbcw_goodfood/images/ui/border-dash.3.gif?vcea4046353d3aff5c44a4d7f021d9f80") !important; background-position: left bottom !important; background-size: initial !important; background-repeat: repeat-x !important; background-attachment: initial !important; background-origin: initial !important; background-clip: initial !important;">Ingredients</h2></div><div><p class="MsoNormal">1 tbsp vegetable oil<o:p></o:p></p>
+
+<p class="MsoNormal">1 large onion, chopped<o:p></o:p></p>
+
+<p class="MsoNormal">100g streaky bacon, chopped<o:p></o:p></p>
+
+<p class="MsoNormal">1 tbsp plain flour<o:p></o:p></p>
+
+<p class="MsoNormal">600ml fish stock, made from 1 fish stock cube<o:p></o:p></p>
+
+<p class="MsoNormal">225g new potato, halved<o:p></o:p></p>
+
+<p class="MsoNormal">pinch mace<o:p></o:p></p>
+
+<p class="MsoNormal">pinch cayenne pepper<o:p></o:p></p>
+
+<p class="MsoNormal">300ml milk<o:p></o:p></p>
+
+<p class="MsoNormal">320g pack fish pie mix (salmon, haddock and smoked haddock)<o:p></o:p></p>
+
+<p class="MsoNormal">4 tbsp single cream<o:p></o:p></p>
+
+<p class="MsoNormal">250g pack cooked mixed shellfish<o:p></o:p></p>
+
+<p class="MsoNormal">small bunch parsley, chopped<o:p></o:p></p>
+
+<p class="MsoNormal">crusty bread, to serve<o:p></o:p></p><h2 class="responsive-tabs__pane-title" style="margin: 0px 0px 15px; font-family: SerifaBT-Light, Georgia, "Times New Roman", Times, serif; color: rgb(51, 51, 51); text-rendering: optimizeLegibility; font-size: 26px; padding-top: 20px; padding-bottom: 10px; background-image: url("/sites/all/themes/bbcw_goodfood/images/ui/border-dash.3.gif?vcea4046353d3aff5c44a4d7f021d9f80") !important; background-position: left bottom !important; background-size: initial !important; background-repeat: repeat-x !important; background-attachment: initial !important; background-origin: initial !important; background-clip: initial !important;">Method</h2></div><div><ol class="method__list" style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; list-style: none; font-family: "Helvetica Neue", Helvetica, Arial; font-size: 15px;"><li class="method__item" itemprop="recipeInstructions" style="line-height: 1.6; font-size: 16px; border-bottom: 1px solid rgb(240, 242, 235); counter-increment: method 1; margin-bottom: 20px; padding-bottom: 20px;"><p style="line-height: 1.5; margin-bottom: 0px; padding-bottom: 0px; padding-top: 2px;">1. Heat the oil in a large saucepan over a medium heat, then add the onion and bacon. Cook for 8-10 mins until the onion is soft and the bacon is cooked. Stir in the flour, then cook for a further 2 mins.</p></li><li class="method__item" itemprop="recipeInstructions" style="line-height: 1.6; font-size: 16px; border-bottom: 1px solid rgb(240, 242, 235); counter-increment: method 1; margin-bottom: 20px; padding-bottom: 20px;"><p style="line-height: 1.5; margin-bottom: 0px; padding-bottom: 0px; padding-top: 2px;">2. Pour in the fish stock and bring it up to a gentle simmer. Add the potatoes, cover, then simmer for 10-12 mins until the potatoes are cooked through.</p></li><li class="method__item" itemprop="recipeInstructions" style="line-height: 1.6; font-size: 16px; border-bottom: 1px solid rgb(240, 242, 235); counter-increment: method 1; margin-bottom: 20px; padding-bottom: 20px;"><p style="line-height: 1.5; margin-bottom: 0px; padding-bottom: 0px; padding-top: 2px;">3. Add the mace, cayenne pepper and some seasoning, then stir in the milk.</p></li><li class="method__item" itemprop="recipeInstructions" style="line-height: 1.6; font-size: 16px; border-bottom: 1px solid rgb(240, 242, 235); counter-increment: method 1; padding-bottom: 20px; margin-bottom: 0px !important;"><p style="line-height: 1.5; margin-bottom: 0px; padding-bottom: 0px; padding-top: 2px;">4. Tip the fish pie mix into the pan, gently simmer for 4 mins. Add the cream and shellfish, then simmer for 1 min more. Check the seasoning. Sprinkle with the parsley and serve with some crusty bread.</p></li></ol></div>

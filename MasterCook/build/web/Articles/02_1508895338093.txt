@@ -1,0 +1,35 @@
+<img src="Pictures/02_1508895266091.jpg"><div><h2 class="responsive-tabs__pane-title" style="margin: 0px 0px 15px; font-family: SerifaBT-Light, Georgia, "Times New Roman", Times, serif; color: rgb(51, 51, 51); text-rendering: optimizeLegibility; font-size: 25px; padding-top: 20px; padding-bottom: 10px; background-image: url("/sites/all/themes/bbcw_goodfood/images/ui/border-dash.3.gif?vcea4046353d3aff5c44a4d7f021d9f80") !important; background-position: left bottom !important; background-size: initial !important; background-repeat: repeat-x !important; background-attachment: initial !important; background-origin: initial !important; background-clip: initial !important;">Ingredients<br></h2></div><div><p class="MsoNormal">1 large onion<o:p></o:p></p>
+
+<p class="MsoNormal">, roughly chopped<o:p></o:p></p>
+
+<p class="MsoNormal">10 garlic cloves<o:p></o:p></p>
+
+<p class="MsoNormal">100g ginger<o:p></o:p></p>
+
+<p class="MsoNormal">, chopped<o:p></o:p></p>
+
+<p class="MsoNormal">100ml vegetable oil<o:p></o:p></p>
+
+<p class="MsoNormal">2 scotch bonnet chillies, chopped<o:p></o:p></p>
+
+<p class="MsoNormal">small handful curry leaves<o:p></o:p></p>
+
+<p class="MsoNormal">3 thyme<o:p></o:p></p>
+
+<p class="MsoNormal"> sprigs<o:p></o:p></p>
+
+<p class="MsoNormal">4 tbsp mild curry powder<o:p></o:p></p>
+
+<p class="MsoNormal">700g mutton or goat shoulder, diced<o:p></o:p></p>
+
+<p class="MsoNormal">400g can chopped tomato<o:p></o:p></p>
+
+<p class="MsoNormal">300ml lamb or beef stock<o:p></o:p></p>
+
+<p class="MsoNormal">410g can pinto, kidney or black-eyed beans<o:p></o:p></p>
+
+<p class="MsoNormal">juice ½ lemon<o:p></o:p></p>
+
+<p class="MsoNormal">small bunch coriander, chopped<o:p></o:p></p>
+
+<p class="MsoNormal">warmed roti (Jamaican flatbread ) and rice, to serve<o:p></o:p></p><h2 class="responsive-tabs__pane-title" style="margin: 0px 0px 15px; font-family: SerifaBT-Light, Georgia, "Times New Roman", Times, serif; color: rgb(51, 51, 51); text-rendering: optimizeLegibility; font-size: 25px; padding-top: 20px; padding-bottom: 10px; background-image: url("/sites/all/themes/bbcw_goodfood/images/ui/border-dash.3.gif?vcea4046353d3aff5c44a4d7f021d9f80") !important; background-position: left bottom !important; background-size: initial !important; background-repeat: repeat-x !important; background-attachment: initial !important; background-origin: initial !important; background-clip: initial !important;">Method</h2></div><div><ol class="method__list" style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; list-style: none; font-family: "Helvetica Neue", Helvetica, Arial; font-size: 15px;"><li class="method__item" itemprop="recipeInstructions" style="line-height: 1.6; font-size: 16px; border-bottom: 1px solid rgb(240, 242, 235); counter-increment: method 1; margin-bottom: 20px; padding-bottom: 20px;"><p style="line-height: 1.5; margin-bottom: 0px; padding-bottom: 0px; padding-top: 2px;">1. Place the onion, garlic and ginger in a food processor and blend to a purée. Heat the oil in a large flameproof casserole dish, add the onion mixture and cook for 5 mins until softened. Add the chillies, curry leaves, thyme, curry powder and 2 tsp salt. Cook for 2-3 mins until fragrant.</p></li><li class="method__item" itemprop="recipeInstructions" style="line-height: 1.6; font-size: 16px; border-bottom: 1px solid rgb(240, 242, 235); counter-increment: method 1; margin-bottom: 20px; padding-bottom: 20px;"><p style="line-height: 1.5; margin-bottom: 0px; padding-bottom: 0px; padding-top: 2px;">2. Tip the mutton or goat into the pan. Cook for 5 mins over a medium-high heat until the meat has browned. Add the chopped tomatoes and stock. Increase the heat, bring to the boil and cook for 10 mins. Reduce heat, cover and leave to simmer gently for 2½ hrs – remove the lid for the final 30 mins of cooking.</p></li><li class="method__item" itemprop="recipeInstructions" style="line-height: 1.6; font-size: 16px; border-bottom: 1px solid rgb(240, 242, 235); counter-increment: method 1; padding-bottom: 20px; margin-bottom: 0px !important;"><p style="line-height: 1.5; margin-bottom: 0px; padding-bottom: 0px; padding-top: 2px;">3. Add the beans to heat through, plus more chilli if you want it spicier. After 5 mins more, remove from the heat. Add the lemon juice and coriander, and stir well. Serve with warmed roti and rice.</p></li></ol></div>

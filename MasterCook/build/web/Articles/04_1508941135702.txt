@@ -1,0 +1,31 @@
+<img src="Pictures/04_1508940989608.jpg"><div><h2 class="responsive-tabs__pane-title" style="margin: 0px 0px 15px; font-family: SerifaBT-Light, Georgia, "Times New Roman", Times, serif; color: rgb(51, 51, 51); text-rendering: optimizeLegibility; font-size: 25px; padding-top: 20px; padding-bottom: 10px; background-image: url("/sites/all/themes/bbcw_goodfood/images/ui/border-dash.3.gif?vcea4046353d3aff5c44a4d7f021d9f80") !important; background-position: left bottom !important; background-size: initial !important; background-repeat: repeat-x !important; background-attachment: initial !important; background-origin: initial !important; background-clip: initial !important;">Ingredients</h2></div><div><p class="MsoNormal">3 onions, peeled<o:p></o:p></p>
+
+<p class="MsoNormal">500g minced lamb<o:p></o:p></p>
+
+<p class="MsoNormal">zest and juice 1 unwaxed lemon, quartered<o:p></o:p></p>
+
+<p class="MsoNormal">1 tsp ground cumin<o:p></o:p></p>
+
+<p class="MsoNormal">1 tsp ground cinnamon<o:p></o:p></p>
+
+<p class="MsoNormal">pinch cayenne pepper<o:p></o:p></p>
+
+<p class="MsoNormal">small bunch flat-leaf parsley, chopped<o:p></o:p></p>
+
+<p class="MsoNormal">2 tbsp olive oil<o:p></o:p></p>
+
+<p class="MsoNormal">thumb-sized piece ginger, peeled and grated<o:p></o:p></p>
+
+<p class="MsoNormal">1 red chilli, deseeded and finely chopped<o:p></o:p></p>
+
+<p class="MsoNormal">pinch saffron strands<o:p></o:p></p>
+
+<p class="MsoNormal">250ml lamb stock<o:p></o:p></p>
+
+<p class="MsoNormal">1 tbsp tomato purée<o:p></o:p></p>
+
+<p class="MsoNormal">100g pitted black kalamata olive<o:p></o:p></p>
+
+<p class="MsoNormal">small bunch coriander, chopped<o:p></o:p></p>
+
+<p class="MsoNormal">couscous or fresh crusty bread, to serve<o:p></o:p></p><h2 class="responsive-tabs__pane-title" style="margin: 0px 0px 15px; font-family: SerifaBT-Light, Georgia, "Times New Roman", Times, serif; color: rgb(51, 51, 51); text-rendering: optimizeLegibility; font-size: 25px; padding-top: 20px; padding-bottom: 10px; background-image: url("/sites/all/themes/bbcw_goodfood/images/ui/border-dash.3.gif?vcea4046353d3aff5c44a4d7f021d9f80") !important; background-position: left bottom !important; background-size: initial !important; background-repeat: repeat-x !important; background-attachment: initial !important; background-origin: initial !important; background-clip: initial !important;">Method</h2></div><div><ol class="method__list" style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; list-style: none; font-family: "Helvetica Neue", Helvetica, Arial; font-size: 15px;"><li class="method__item" itemprop="recipeInstructions" style="line-height: 1.6; font-size: 16px; border-bottom: 1px solid rgb(240, 242, 235); counter-increment: method 1; margin-bottom: 20px; padding-bottom: 20px;"><p style="line-height: 1.5; margin-bottom: 0px; padding-bottom: 0px; padding-top: 2px;">1. Put the onions in a food processor and blitz until finely chopped. Put the lamb, lemon zest, spices, parsley and half the onions in a large bowl, and season. Using your hands, mix until well combined, then shape into walnut-sized balls.</p></li><li class="method__item" itemprop="recipeInstructions" style="line-height: 1.6; font-size: 16px; border-bottom: 1px solid rgb(240, 242, 235); counter-increment: method 1; margin-bottom: 20px; padding-bottom: 20px;"><p style="line-height: 1.5; margin-bottom: 0px; padding-bottom: 0px; padding-top: 2px;">2. Heat the oil in a large flameproof dish, or tagine with a lid, then add the remaining onions, ginger, chilli and saffron. Cook for 5 mins until the onion is softened and starting to colour. Add the lemon juice, stock, tomato purée and olives, then bring to the boil. Add the meatballs, one at a time, then reduce the heat, cover with the lid and cook for 20 mins, turning the meatballs a couple of times.</p></li><li class="method__item" itemprop="recipeInstructions" style="line-height: 1.6; font-size: 16px; border-bottom: 1px solid rgb(240, 242, 235); counter-increment: method 1; padding-bottom: 20px; margin-bottom: 0px !important;"><p style="line-height: 1.5; margin-bottom: 0px; padding-bottom: 0px; padding-top: 2px;">3. Remove lid, then add the coriander and lemon wedges, tucking them in between the meatballs. Cook, uncovered, for a further 10 mins until the liquid has reduced and thickened slightly. Serve hot with couscous or fresh crusty bread.</p></li></ol></div>
